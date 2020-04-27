@@ -1,20 +1,20 @@
 # pugstagram-svelte
 **Web application developed with svelte framework: https://svelte.dev/**
 
-# Get started
+### Get started
 ```
 git clone https://github.com/wilantury/pugstagram-svelte.git
 cd pugstagram-svelte
 ```
-# Install the dependencies
+### Install the dependencies
 ```
 npm install
 ```
-# Start project
+### Start project
 ```
 npm run start
 ```
-# Build app - webpack
+### Build app - webpack
 ```
 npm run build
 ```
