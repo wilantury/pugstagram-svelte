@@ -34,8 +34,10 @@
             <img src="https://witroni.com/wp-content/uploads/2019/03/logo_wit.png" alt="profile-photo">
         </div>
         <div class="Profile-info">
-            <h2>{nickname}}</h2>
-            <span>{name}}</span>
+            <!-- <h2>{nickname}</h2>
+            <span>{name}</span> -->
+            <h2>@wilantury</h2>
+            <span>Wilson Antury</span>
         </div>
     </div>
 </div>
