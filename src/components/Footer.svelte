@@ -10,7 +10,7 @@
 <div class="Footer">
     <div class="Footer-container">
         <div class="Footer-copy">
-            © 2020 PUGSTAGRAM FROM PLATZI        
+            © 2020 PUGSTAGRAM FROM ANTURY        
         </div>
     </div>        
 </div>
