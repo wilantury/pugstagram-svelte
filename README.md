@@ -18,3 +18,6 @@ npm run start
 ```
 npm run build
 ```
+### Deploy on https://www.netlify.com/
+
+https://sveltepugstagram.netlify.app/
